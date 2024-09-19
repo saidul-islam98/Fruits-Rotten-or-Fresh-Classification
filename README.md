@@ -93,13 +93,6 @@ To leverage existing knowledge, a pre-trained model such as **VGG16** or **ResNe
 - **Confusion Matrix**: A confusion matrix is plotted to visualize the performance across different classes.
 - **Precision & Recall**: Precision and recall metrics are calculated to measure the model’s robustness.
 
-## Future Work
-
-- Improve model accuracy by fine-tuning hyperparameters.
-- Explore more advanced data augmentation techniques.
-- Experiment with other pre-trained models for transfer learning.
-- Build a web or mobile application for real-time fruit classification.
-
 ## Contributing
 
 If you'd like to contribute to the project, feel free to submit a pull request or open an issue.
